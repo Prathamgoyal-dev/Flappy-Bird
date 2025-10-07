@@ -4,7 +4,7 @@ public class PipeSpawnScript : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public GameObject pipePrefab;
-    public float spawnRate = 80f;
+    public float spawnRate = 1f;
     public float timer = 0f;
     public float heightOffset = 10f;
     void Start()
