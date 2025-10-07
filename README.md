@@ -5,14 +5,6 @@ This project helped me understand **physics-based gameplay**, **game loops**, **
 
 ---
 
-## 🎮 Demo
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="assets/screenshot 1.png" width="45%" alt="Gameplay Screenshot 1">
-  
-</p>
 
 ---
 
