@@ -5,9 +5,9 @@ public class LogicScript : MonoBehaviour
     public int PlayerScore = 0;
     public Text ScoreText;
 
-    public void IncrementScore()
+    public void IncrementScore(int scoretoAdd )
     {
-        PlayerScore++;
-        ScoreText.text = "Score: " + PlayerScore.ToString();
+        PlayerScore=PlayerScore+scoretoAdd;
+        ScoreText.text = PlayerScore.ToString();
     }
 }

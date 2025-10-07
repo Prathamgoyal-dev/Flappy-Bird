@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PipeMiddleScript : MonoBehaviour
@@ -17,14 +18,9 @@ public class PipeMiddleScript : MonoBehaviour
     
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if(collision.gameObject.layer == 3) // Player layer
         {
-            // Find the LogicScript in the scene and increment the score
-            LogicScript logic = FindObjectOfType<LogicScript>();
-            if (logic != null)
-            {
-                logic.IncrementScore();
-            }
+            logic.IncrementScore(1);
         }
     }
 }
