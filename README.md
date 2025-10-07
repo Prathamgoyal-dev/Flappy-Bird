@@ -10,7 +10,7 @@ This project helped me understand **physics-based gameplay**, **game loops**, **
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/Screenshot 1.png" width="45%" alt="Gameplay Screenshot 1">
+  <img src=""\Assets\Screenshot 1.png"">
   
 </p>
 
