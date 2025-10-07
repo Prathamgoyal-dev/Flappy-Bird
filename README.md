@@ -8,11 +8,12 @@ This project helped me understand **physics-based gameplay**, **game loops**, **
 ## 🎮 Demo
 
 ## 📸 Screenshots
-
 <p align="center">
-  <img src=""\Assets\Screenshot 1.png"">
-  
+  <img src="<img width="1590" height="891" alt="Screenshot 1" src="https://github.com/user-attachments/assets/7f871c8d-4eba-4aac-827d-e7fc3521a8b3" />
+
 </p>
+
+
 
 ---
 
@@ -47,13 +48,13 @@ This project helped me understand **physics-based gameplay**, **game loops**, **
 
 ## 🚀 How to Run the Game
 
-1. Clone the repository  
+ 1. Clone the repository  
  
-2.Open the project in Unity 
+ 2.Open the project in Unity 
 
-3.Load the MainScene.unity file.
+ 3.Load the MainScene.unity file.
 
-4.Press ▶️ Play in the editor or build the game for Windows/Web.
+ 4.Press ▶️ Play in the editor or build the game for Windows/Web.
 
 
 🧑‍💻 Author
