@@ -7,9 +7,11 @@ This project helped me understand **physics-based gameplay**, **game loops**, **
 
 ## 🎮 Demo
 
-<p align="center">
-  <img src=<img width="1590" height="891" alt="Screenshot 2025-10-08 021745" src="https://github.com/user-attachments/assets/7cd2acfb-664b-481a-aed9-4a12c12fd198" />
+## 📸 Screenshots
 
+<p align="center">
+  <img src="assets/screenshot 1.png" width="45%" alt="Gameplay Screenshot 1">
+  
 </p>
 
 ---
